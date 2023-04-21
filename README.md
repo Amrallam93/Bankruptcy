@@ -23,10 +23,10 @@ Expect bankruptcy of some companies
      5.2- Iterate (used to  two model )
        
        5.2.1- RandomForestClassifier 
-        ### ['max_depth': 40, 'n_estimators': 50 , Accuracy: 0.9663]
+          ['max_depth': 40, 'n_estimators': 50 , Accuracy: 0.9663]
         
         5.2.2- Gradient Boosting Trees
-        ### ['max_depth': 5, 'n_estimators': 35 , Accuracy: 0.94]
+          ['max_depth': 5, 'n_estimators': 35 , Accuracy: 0.94]
         
   6- Evaluate  using precision and recall
   
